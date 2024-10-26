@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: 0a8def1358a18114385528504ca3ef36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1300918834757113361
+    second: TilePallete_0
+  - first:
+      213: -6830559657936928502
+    second: TilePallete_1
+  - first:
+      213: -7340628576033871356
+    second: TilePallete_2
+  - first:
+      213: -878207039672297954
+    second: TilePallete_3
+  - first:
+      213: -7587386306877458294
+    second: TilePallete_4
+  - first:
+      213: 2796670879256243690
+    second: TilePallete_5
+  - first:
+      213: 224473046990652419
+    second: TilePallete_6
+  - first:
+      213: -540899555713681628
+    second: TilePallete_7
+  - first:
+      213: 5961342563432611735
+    second: TilePallete_8
+  - first:
+      213: -6374674313784941097
+    second: TilePallete_9
+  - first:
+      213: 2384978570726460931
+    second: TilePallete_10
+  - first:
+      213: 1732041484653276212
+    second: TilePallete_11
+  - first:
+      213: 7875824843197426078
+    second: TilePallete_12
+  - first:
+      213: -8096700351428860433
+    second: TilePallete_13
+  - first:
+      213: 4417397464764256592
+    second: TilePallete_14
+  - first:
+      213: -1366978638379132315
+    second: TilePallete_15
+  - first:
+      213: -31140745639748247
+    second: TilePallete_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArrowTopLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1161053a9cacd0210800000000000000
+      internalID: 1300918834757113361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowTop
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a014e835e2af431a0800000000000000
+      internalID: -6830559657936928502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowTopRight
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a6b61d339d02a90800000000000000
+      internalID: -7340628576033871356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16d511b95bffc3f0800000000000000
+      internalID: -878207039672297954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rook
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 3, y: 0, z: 3, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427f48a48b65e78f0800000000000000
+      internalID: -540899555713681628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bishop
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 3, y: 0, z: 3, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f31d51a71fab250800000000000000
+      internalID: 5961342563432611735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5aa007c7b9887a0800000000000000
+      internalID: -6374674313784941097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRight
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ec119bf55291120800000000000000
+      internalID: 2384978570726460931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 992
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 2, y: 0, z: 2, w: 8}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43caff4bd82790810800000000000000
+      internalID: 1732041484653276212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingBlack
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 992
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 2, y: 0, z: 2, w: 8}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99aafb87fc8c4d60800000000000000
+      internalID: 7875824843197426078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 992
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 1, y: 0, z: 1, w: 8}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe56d44bdedb2af80800000000000000
+      internalID: -8096700351428860433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 992
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 3, y: 0, z: 3, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0511cfef69fbd4d30800000000000000
+      internalID: 4417397464764256592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 992
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 3, y: 0, z: 3, w: 1}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a5dd3cb24870de0800000000000000
+      internalID: -1366978638379132315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowLeftBottom
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d1a1628ad519ff0800000000000000
+      internalID: -31140745639748247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowBottom
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0603116bd3387874595abd1d404ad1b8
+      internalID: -660018120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRightBottom
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d273deee34c20ff4cbe7a5b44e287075
+      internalID: 701173826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6d483045bcaa3488b3180dea196724
+      internalID: 275577943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardFrame
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 736
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f45329d810fa3546a777634c76193c2
+      internalID: -1017350243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f001d59aa083c8d458da08a04d3e44b6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ArrowBottom: -660018120
+      ArrowLeft: -6374674313784941097
+      ArrowLeftBottom: -31140745639748247
+      ArrowRight: 2384978570726460931
+      ArrowRightBottom: 701173826
+      ArrowTop: -6830559657936928502
+      ArrowTopLeft: 1300918834757113361
+      ArrowTopRight: -7340628576033871356
+      Bishop: 5961342563432611735
+      Board: 275577943
+      BoardFrame: -1017350243
+      Cursor: -878207039672297954
+      King: 1732041484653276212
+      KingBlack: 7875824843197426078
+      Knight: 4417397464764256592
+      Pawn: -1366978638379132315
+      Queen: -8096700351428860433
+      Rook: -540899555713681628
+      TilePallete_100: 1925997815
+      TilePallete_101: 1013975214
+      TilePallete_102: 535691671
+      TilePallete_103: 994862634
+      TilePallete_104: 226810558
+      TilePallete_105: -389519873
+      TilePallete_106: -1936131979
+      TilePallete_107: 455246466
+      TilePallete_108: 803138929
+      TilePallete_109: 1201200989
+      TilePallete_110: -1551613113
+      TilePallete_111: 1222744640
+      TilePallete_112: -679827802
+      TilePallete_113: -1852065146
+      TilePallete_114: 1947333983
+      TilePallete_115: 1776400024
+      TilePallete_116: -2021130905
+      TilePallete_117: 675829506
+      TilePallete_118: 601639330
+      TilePallete_119: 1924126197
+      TilePallete_120: 438982625
+      TilePallete_121: -1636106718
+      TilePallete_122: 1651109529
+      TilePallete_123: 551026708
+      TilePallete_124: 738238134
+      TilePallete_125: 1082988776
+      TilePallete_126: -1059155187
+      TilePallete_127: -283597204
+      TilePallete_128: 402463470
+      TilePallete_129: -397437444
+      TilePallete_130: -1215777004
+      TilePallete_131: 1953341932
+      TilePallete_132: 2046605654
+      TilePallete_133: -1137278896
+      TilePallete_134: -1180057975
+      TilePallete_135: 1289413728
+      TilePallete_136: 512193549
+      TilePallete_137: 894457232
+      TilePallete_138: -1753040040
+      TilePallete_139: -492853976
+      TilePallete_140: -1885338687
+      TilePallete_141: 1330831651
+      TilePallete_142: -2050753838
+      TilePallete_143: -855974182
+      TilePallete_144: 932796543
+      TilePallete_145: -1382070449
+      TilePallete_146: -864225599
+      TilePallete_147: -309098395
+      TilePallete_148: -512364232
+      TilePallete_149: 1044177430
+      TilePallete_150: -1680479138
+      TilePallete_151: 2088830797
+      TilePallete_152: 2031094524
+      TilePallete_153: -1785117155
+      TilePallete_154: 227220138
+      TilePallete_155: -585975511
+      TilePallete_156: -1282723400
+      TilePallete_157: -154408076
+      TilePallete_158: 2132613610
+      TilePallete_159: -1852682103
+      TilePallete_160: 150842375
+      TilePallete_161: 1396880196
+      TilePallete_162: -314506469
+      TilePallete_163: 532549825
+      TilePallete_164: 1719290510
+      TilePallete_165: 303494179
+      TilePallete_166: 19381260
+      TilePallete_167: -1884528435
+      TilePallete_168: -274884123
+      TilePallete_169: -461874741
+      TilePallete_170: 245134668
+      TilePallete_171: -546991206
+      TilePallete_172: -110216342
+      TilePallete_173: 133626912
+      TilePallete_174: 727901783
+      TilePallete_175: 1567912125
+      TilePallete_176: 562850947
+      TilePallete_177: 1625271920
+      TilePallete_178: 1439802750
+      TilePallete_179: 645177826
+      TilePallete_180: 1124940758
+      TilePallete_181: -1625119727
+      TilePallete_182: -1728666168
+      TilePallete_183: -432237407
+      TilePallete_184: 969296887
+      TilePallete_185: -90695552
+      TilePallete_186: -1967955663
+      TilePallete_187: -1306529563
+      TilePallete_188: -427642048
+      TilePallete_189: -52908236
+      TilePallete_190: 1162927341
+      TilePallete_191: 1554623603
+      TilePallete_192: -1705659684
+      TilePallete_193: 525826681
+      TilePallete_194: -857951253
+      TilePallete_195: -1884335530
+      TilePallete_196: -107579816
+      TilePallete_197: 1330955429
+      TilePallete_198: 755458058
+      TilePallete_199: 880900809
+      TilePallete_20: -1889937213
+      TilePallete_200: -1508279093
+      TilePallete_201: 1919198756
+      TilePallete_202: -2085756198
+      TilePallete_203: -1632948856
+      TilePallete_204: -882338543
+      TilePallete_205: -2006953859
+      TilePallete_206: 938434251
+      TilePallete_207: 2034225695
+      TilePallete_208: 1151740774
+      TilePallete_209: -829585886
+      TilePallete_21: -1490392659
+      TilePallete_210: -571442342
+      TilePallete_211: -1283254396
+      TilePallete_212: -1497201624
+      TilePallete_213: -1030294550
+      TilePallete_214: -1062491277
+      TilePallete_215: 1664188228
+      TilePallete_216: -1625689083
+      TilePallete_217: -779121720
+      TilePallete_218: 80718236
+      TilePallete_219: 2030315546
+      TilePallete_22: 389161687
+      TilePallete_220: -513932292
+      TilePallete_221: -1580422660
+      TilePallete_222: 1825681977
+      TilePallete_223: -1857556760
+      TilePallete_224: 74914396
+      TilePallete_225: 1716386397
+      TilePallete_226: -1824749709
+      TilePallete_23: 1335705681
+      TilePallete_24: 529867958
+      TilePallete_25: 684385693
+      TilePallete_26: 1228278883
+      TilePallete_27: -1911336956
+      TilePallete_28: -65709930
+      TilePallete_29: 1854770319
+      TilePallete_30: -1082147871
+      TilePallete_31: -981332051
+      TilePallete_32: 1307179122
+      TilePallete_33: 1032235769
+      TilePallete_34: -579059035
+      TilePallete_35: -1808030700
+      TilePallete_36: -1222720080
+      TilePallete_37: 1788965500
+      TilePallete_38: 1181376259
+      TilePallete_39: -1480196507
+      TilePallete_4: -7587386306877458294
+      TilePallete_40: -231717372
+      TilePallete_41: -2065454022
+      TilePallete_42: 475312719
+      TilePallete_43: 811587788
+      TilePallete_44: -2071065039
+      TilePallete_45: -1871453171
+      TilePallete_46: 1049502305
+      TilePallete_47: -926985918
+      TilePallete_48: -502806715
+      TilePallete_49: -2077613478
+      TilePallete_5: 2796670879256243690
+      TilePallete_50: -1578179317
+      TilePallete_51: 1191792590
+      TilePallete_52: 212458943
+      TilePallete_53: -1040756833
+      TilePallete_54: -2025750641
+      TilePallete_55: 210346771
+      TilePallete_56: 2059877911
+      TilePallete_57: -791402244
+      TilePallete_58: -1583270687
+      TilePallete_59: -1789465528
+      TilePallete_6: 224473046990652419
+      TilePallete_60: -1715482954
+      TilePallete_61: -206720356
+      TilePallete_62: -2037293335
+      TilePallete_63: 750957213
+      TilePallete_64: 1606418891
+      TilePallete_65: -399656995
+      TilePallete_66: 913563572
+      TilePallete_67: 245991204
+      TilePallete_68: 296950980
+      TilePallete_69: -1903774809
+      TilePallete_70: 614511664
+      TilePallete_71: -1002676848
+      TilePallete_72: 145103235
+      TilePallete_73: -1117326094
+      TilePallete_74: 195736384
+      TilePallete_76: 1133127843
+      TilePallete_77: -1911761629
+      TilePallete_78: 804929747
+      TilePallete_79: -1539771627
+      TilePallete_80: -157052990
+      TilePallete_81: 397981539
+      TilePallete_82: -920298511
+      TilePallete_83: -353336749
+      TilePallete_84: -1416316194
+      TilePallete_85: 837244295
+      TilePallete_86: 1243301819
+      TilePallete_87: -1770777772
+      TilePallete_88: 813517711
+      TilePallete_89: -810991149
+      TilePallete_90: -1341616205
+      TilePallete_91: -751952916
+      TilePallete_92: -1420070711
+      TilePallete_93: -1205974171
+      TilePallete_94: 2017890871
+      TilePallete_95: 1775339270
+      TilePallete_96: -236782992
+      TilePallete_97: -2037631232
+      TilePallete_98: 1860321558
+      TilePallete_99: 1141340857
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
