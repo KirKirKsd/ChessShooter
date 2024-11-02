@@ -29,6 +29,8 @@ public class PieceMove : MonoBehaviour {
 			transform.position = _target;
 			_animator.SetBool(Animator.StringToHash("IsMoving"), false);
 			_renderer.sortingOrder = 8 - _piece.cell.y;
+
+			this.enabled = false;
 		}
 		else if (_animator.GetCurrentAnimatorStateInfo(0).IsName("UpPos")) {
 			transform.position = Vector3.Lerp(transform.position, _target, Time.deltaTime * speed);
