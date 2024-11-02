@@ -9,8 +9,6 @@ public class Piece : MonoBehaviour {
 	
 	private void Start() {
 		_pieceMove = GetComponent<PieceMove>();
-		
-		Move(new Cell(2, 3));
 	}
 	
 	public void Move(Cell newCell) {
@@ -18,4 +16,9 @@ public class Piece : MonoBehaviour {
 		_pieceMove.ToNewPoint(cell.GetTransform());
 	}
 
+	public void FastMove(Cell newCell) {
+		cell = newCell;
+		transform.position = cell.GetTransform();
+	}
+	
 }
