@@ -22,6 +22,8 @@ public class PieceMove : MonoBehaviour {
 		_piece = GetComponent<Piece>();
 		_animator = GetComponent<Animator>();
 		_renderer = GetComponentInChildren<SpriteRenderer>();
+		_target = transform.position;
+		this.enabled = false;
 	}
 
 	private void Update() {

@@ -9,7 +9,7 @@ public class Piece : MonoBehaviour {
 	
 	private void Start() {
 		_pieceMove = GetComponent<PieceMove>();
-		Move(new Cell(2, 1));
+		Move(new Cell(2, 3));
 	}
 	
 	public void Move(Cell newCell) {
